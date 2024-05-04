@@ -2,7 +2,7 @@
 
 ## Data Scientist | 2+ Years of Experience
 
-Welcome to my GitHub profile! I'm Shivprasad Nalawade, a passionate data scientist with over 2 years of experience in leveraging data-driven insights to solve real-world problems. I specialize in machine learning, data analysis, and statistical modeling. My expertise lies in transforming complex data into actionable insights, enabling informed decision-making.
+Welcome to my GitHub profile! I'm Shivprasad Nalawade, Passionate about Data Science and Machine Learning, with a strong proficiency in Python, ML algorithms ranging from Linear Regression, Logistic Regression, SVMs, KNN to Neural Networks. With over 2+ years of experience as Data Scientist, I am committed to leveraging my skills to drive innovation and solve complex problems in the field.
 
 ### 🔭 Skills:
 
