@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm Shivprasad Nalawade, a passionate data scienti
 - **Data Visualization:** Matplotlib, Seaborn, Plotly.
 - **Statistical Analysis:** Hypothesis Testing, A/B Testing, Regression Analysis.
 - **Big Data Technologies:** Apache Spark, Hadoop.
-- **Database Management:** SQL, MongoDB.
+- **Database Management:** SQL.
 - **Software Tools:** Jupyter Notebook, Git, PyCharm, Kaggle.
 
 ### 🌱 Projects:
